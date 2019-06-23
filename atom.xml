@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
-  
+  <title>Moses的博客</title>
+  <icon>https://www.gravatar.com/avatar/0adba92be4041d7db7348ef28b1f75bc</icon>
+  <subtitle>我是真的很强，很强。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://mzeib.cn/"/>
   <updated>2019-06-23T12:12:40.938Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://mzeib.cn/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>MosesMze</name>
+    <email>1194789138@qq.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="http://yoursite.com/2019/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2019/06/23/我的第一篇文章/</id>
+    <link href="http://mzeib.cn/2019/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://mzeib.cn/2019/06/23/我的第一篇文章/</id>
     <published>2019-06-23T12:12:40.000Z</published>
     <updated>2019-06-23T12:12:40.938Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/06/23/hello-world/"/>
-    <id>http://yoursite.com/2019/06/23/hello-world/</id>
+    <link href="http://mzeib.cn/2019/06/23/hello-world/"/>
+    <id>http://mzeib.cn/2019/06/23/hello-world/</id>
     <published>2019-06-23T12:08:47.560Z</published>
     <updated>2019-06-23T12:08:47.560Z</updated>
     
